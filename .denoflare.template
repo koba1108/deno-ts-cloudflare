@@ -2,9 +2,9 @@
 {
     "$schema": "https://raw.githubusercontent.com/skymethod/denoflare/v0.5.8/common/config.schema.json",
     "scripts": {
-        "hello-local": {
+        "hello": {
             "path": "index.ts",
-            "localPort": 3030
+            "localPort": 8000
         }
     },
     "profiles": {
